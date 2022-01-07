@@ -1,2 +1,3 @@
-# WannaCry.EXE
-このプログラムは危険なランサムウェアです実行するときは
+WannaCry.EXE
+Download.File.Zip
+Password=WannaCrypt
